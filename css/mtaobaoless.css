@@ -1,0 +1,975 @@
+@charset "utf-8";
+.tquality3 .hpz .line {
+  width: 3.813rem;
+  height: 0.013333rem;
+  background-color: #ccc;
+  margin-right: 0.156rem;
+  margin-left: 0.156rem;
+  margin-top: 0.484rem;
+  float: left;
+}
+.tquality3 .hpz .line1 {
+  width: 3.813rem;
+  height: 0.013333rem;
+  background-color: #ccc;
+  margin-right: 0.156rem;
+  margin-top: 0.484rem;
+  float: right;
+}
+.tquality3 .hpz .pz {
+  text-align: center;
+  font-size: 50px;
+  margin-right: 0.047rem;
+  width: 1.328rem;
+  height: 0.953rem;
+  line-height: 0.953rem;
+  float: left;
+  color: #6A29A4;
+}
+.tquality3 .top {
+  width: 10rem;
+  height: 2.609rem;
+  background-color: #fff;
+}
+.tquality3 .top .v-line {
+  height: 2.609rem;
+}
+.tquality3 .top .qqss {
+  width: 5.969rem;
+  height: 2.609rem;
+  background-image: url(../img/ss.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+}
+.tquality3 .top .ppj {
+  width: 4rem;
+  height: 2.609rem;
+  background-image: url(../img/ppj.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+}
+.tquality3 .buttom {
+  width: 10rem;
+  height: 3.141rem;
+  background-color: #fff;
+}
+.tquality3 .buttom .shj {
+  width: 1.984rem;
+  height: 3.125rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/shj.jpg);
+}
+.tquality3 .buttom .hg {
+  width: 1.984rem;
+  height: 3.125rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/hx.png);
+}
+.tquality3 .buttom .gj {
+  width: 1.984rem;
+  height: 3.125rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/gj.png);
+}
+.tquality3 .buttom .msx {
+  width: 1.984rem;
+  height: 3.125rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/msx.jpg);
+}
+.tquality3 .buttom .yg {
+  width: 1.984rem;
+  height: 3.125rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/yg.jpg);
+}
+.f-size {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 4rem;
+  height: 3.125rem;
+}
+.f-size2 {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 1.984rem;
+  height: 3.125rem;
+}
+.tfeature3 {
+  width: 10rem;
+  height: 7.266rem;
+}
+.tfeature3 .features {
+  width: 10rem;
+  height: 0.953rem;
+}
+.tfeature3 .features .line {
+  width: 3.813rem;
+  height: 0.013333rem;
+  background-color: #ccc;
+  margin-right: 0.156rem;
+  margin-left: 0.156rem;
+  margin-top: 0.484rem;
+  float: left;
+}
+.tfeature3 .features .tb {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 0.531rem;
+  height: 0.531rem;
+  margin-top: 0.219rem;
+  background-image: url(../img/yts.png);
+}
+.tfeature3 .features .ts {
+  text-align: center;
+  font-size: 50px;
+  margin-right: 0.047rem;
+  width: 1.328rem;
+  height: 0.953rem;
+  line-height: 0.953rem;
+  float: left;
+}
+.tfeature3 .features .line1 {
+  width: 3.813rem;
+  height: 0.013333rem;
+  background-color: #ccc;
+  margin-right: 0.156rem;
+  margin-top: 0.484rem;
+  float: right;
+}
+.tfeature3 .top {
+  width: 10rem;
+  height: 3.125rem;
+  background-color: #fff;
+}
+.tfeature3 .top .qqg {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 4rem;
+  height: 3.125rem;
+  background-image: url(../img/qqg.png);
+}
+.tfeature3 .top .chain {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 1.984rem;
+  height: 3.125rem;
+  background-image: url(../img/zg.png);
+}
+.tfeature3 .top .home {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 1.984rem;
+  height: 3.125rem;
+  background-image: url(../img/jyj.png);
+}
+.tfeature3 .top .sale {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 1.984rem;
+  height: 3.125rem;
+  background-image: url(../img/pm.png);
+}
+.tfeature3 .buttom {
+  width: 10rem;
+  height: 3.141rem;
+  background-color: #fff;
+}
+.tfeature3 .buttom .make {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 4rem;
+  height: 3.125rem;
+  background-image: url(../img/make.png);
+}
+.tfeature3 .buttom .jk {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 1.984rem;
+  height: 3.125rem;
+  background-image: url(../img/jk.png);
+}
+.tfeature3 .buttom .zc {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 1.984rem;
+  height: 3.125rem;
+  background-image: url(../img/zc.png);
+}
+.tfeature3 .buttom .new {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 1.984rem;
+  height: 3.125rem;
+  background-image: url(../img/new.png);
+}
+.h-view {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 10rem;
+  height: 2rem;
+  background-image: url(../img/view.png);
+}
+.h-in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.h-pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+}
+.tcategory3 {
+  width: 10rem;
+  height: 10.609rem;
+}
+.tcategory3 .hot {
+  width: 10rem;
+  height: 0.953rem;
+}
+.tcategory3 .hot .line {
+  width: 3.672rem;
+  height: 0.013333rem;
+  background-color: #ccc;
+  margin-right: 0.156rem;
+  margin-left: 0.156rem;
+  margin-top: 0.491rem;
+  float: left;
+}
+.tcategory3 .hot .tb {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 0.531rem;
+  height: 0.531rem;
+  margin-top: 0.219rem;
+  background-image: url(../img/hot.png);
+}
+.tcategory3 .hot .hot-f {
+  text-align: center;
+  font-size: 42px;
+  margin-right: 0.047rem;
+  width: 1.766rem;
+  height: 0.953rem;
+  line-height: 0.953rem;
+  float: left;
+  color: #48b215;
+}
+.tcategory3 .hot .line1 {
+  width: 2.453rem;
+  height: 0.013333rem;
+  background-color: #ccc;
+  margin-top: 0.491rem;
+  float: left;
+}
+.tcategory3 .hot .bt {
+  width: 1.1rem;
+  height: 0.953rem;
+  float: left;
+}
+.tcategory3 .hot .bt .gd {
+  text-align: center;
+  font-size: 37.5px;
+  color: #666666;
+  margin-left: 0.063rem;
+  width: 0.844rem;
+  height: 0.953rem;
+  line-height: 0.953rem;
+  display: inline-block;
+}
+.tcategory3 .hot .bt .right {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/right.png);
+  width: 0.141rem;
+  height: 0.25rem;
+  margin-top: 0.359rem;
+  float: right;
+}
+.tcategory3 .top {
+  width: 10rem;
+  height: 3.844rem;
+  background-color: #fff;
+}
+.tcategory3 .top .clothes {
+  width: 4.984rem;
+  height: 3.844rem;
+  float: left;
+}
+.tcategory3 .top .clothes .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.375rem;
+  width: 4.609rem;
+  height: 0.531rem;
+  line-height: 0.531rem;
+  background-color: white;
+}
+.tcategory3 .top .clothes .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.313rem;
+  margin-left: 0.375rem;
+  width: 4.609rem;
+  height: 0.344rem;
+  line-height: 0.344rem;
+  background-color: white;
+}
+.tcategory3 .top .clothes .pic {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 4.984rem;
+  height: 2.313rem;
+  background-image: url(../img/clothes.jpg);
+}
+.tcategory3 .top .v-line {
+  height: 3.844rem;
+}
+.tcategory3 .top .car {
+  width: 5rem;
+  height: 3.844rem;
+  float: left;
+}
+.tcategory3 .top .car .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.375rem;
+  margin-left: 0.375rem;
+  width: 4.625rem;
+  height: 0.5rem;
+  line-height: 0.5rem;
+  background-color: white;
+}
+.tcategory3 .top .car .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.313rem;
+  margin-left: 0.375rem;
+  width: 4.625rem;
+  height: 0.344rem;
+  line-height: 0.344rem;
+  background-color: white;
+}
+.tcategory3 .top .car .pic {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  width: 5rem;
+  height: 2.313rem;
+  background-image: url(../img/car.jpg);
+}
+.tcategory3 .c {
+  width: 10rem;
+  height: 2.875rem;
+  background-color: #fff;
+}
+.tcategory3 .c .v-line {
+  height: 2.875rem;
+}
+.tcategory3 .c .food {
+  margin-left: 0.203rem;
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .c .food .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .c .food .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .c .food .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/zhenzi.png);
+}
+.tcategory3 .c .bag {
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .c .bag .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .c .bag .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .c .bag .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/bao.jpg);
+}
+.tcategory3 .c .shoes {
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .c .shoes .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .c .shoes .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .c .shoes .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/shoes.png);
+}
+.tcategory3 .c .road {
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .c .road .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .c .road .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .c .road .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/road.jpg);
+}
+.tcategory3 .bottom {
+  width: 10rem;
+  height: 2.875rem;
+  background-color: #fff;
+}
+.tcategory3 .bottom .v-line {
+  height: 2.875rem;
+}
+.tcategory3 .bottom .fashion {
+  margin-left: 0.203rem;
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .bottom .fashion .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .bottom .fashion .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .bottom .fashion .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/bao1.jpg);
+}
+.tcategory3 .bottom .game {
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .bottom .game .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .bottom .game .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .bottom .game .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/ren.jpg);
+}
+.tcategory3 .bottom .home {
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .bottom .home .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .bottom .home .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .bottom .home .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/tool.jpg);
+}
+.tcategory3 .bottom .bra {
+  width: 2.406rem;
+  height: 2.875rem;
+  float: left;
+  background-color: #fff;
+}
+.tcategory3 .bottom .bra .title {
+  font-size: 40.5px;
+  color: #222222;
+  margin-top: 0.344rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.469rem;
+  line-height: 0.469rem;
+  background-color: white;
+}
+.tcategory3 .bottom .bra .in {
+  font-size: 33px;
+  color: #999999;
+  margin-bottom: 0.031rem;
+  margin-left: 0.438rem;
+  width: 1.969rem;
+  height: 0.375rem;
+  line-height: 0.375rem;
+  background-color: white;
+}
+.tcategory3 .bottom .bra .pic {
+  width: 2.406rem;
+  height: 1.656rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/bar.jpg);
+}
+.tbanner3 {
+  width: 10rem;
+  height: 2rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/view1.jpg);
+}
+.tshop88 {
+  width: 10rem;
+  height: 5.344rem;
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+.tshop88 .goodshop {
+  width: 10rem;
+  height: 0.969rem;
+  background-color: #fff;
+}
+.tshop88 .goodshop .bian {
+  background-color: #ff9b43;
+  width: 0.156rem;
+  height: 0.969rem;
+  float: left;
+}
+.tshop88 .goodshop .word {
+  font-size: 46.5px;
+  color: #222222;
+  margin-left: 0.188rem;
+  width: 4.656rem;
+  height: 0.969rem;
+  line-height: 0.969rem;
+  float: left;
+}
+.tshop88 .goodshop .dateup {
+  width: 5rem;
+  height: 0.969rem;
+  float: right;
+}
+.tshop88 .goodshop .dateup .word {
+  text-align: right;
+  font-size: 40.5px;
+  color: #666666;
+  width: 4.266rem;
+  height: 0.969rem;
+  line-height: 0.969rem;
+}
+.tshop88 .goodshop .dateup .right {
+  margin-top: 0.281rem;
+  margin-left: 0.094rem;
+  width: 0.406rem;
+  height: 0.406rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/g-right.png);
+}
+.tshop88 .lunbo {
+  width: 10rem;
+  height: 4.375rem;
+  background-color: #fff;
+}
+.tshop88 .lunbo .left {
+  margin-left: 0.188rem;
+  width: 4.813rem;
+  height: 3.781rem;
+  float: left;
+}
+.tshop88 .lunbo .left .pic {
+  width: 4.813rem;
+  height: 3.188rem;
+}
+.tshop88 .lunbo .left .pic .b-pic {
+  width: 3.125rem;
+  height: 3.188rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/apple.jpg);
+}
+.tshop88 .lunbo .left .pic .s-pic {
+  margin-left: 0.063rem;
+  width: 1.563rem;
+  height: 3.188rem;
+  float: left;
+}
+.tshop88 .lunbo .left .pic .s-pic .s1 {
+  width: 1.563rem;
+  height: 1.563rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/whg.jpg);
+}
+.tshop88 .lunbo .left .pic .s-pic .s2 {
+  width: 1.563rem;
+  height: 1.563rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/gz.jpg);
+}
+.tshop88 .lunbo .left .word {
+  font-size: 39px;
+  color: #222222;
+  margin-left: 0.031rem;
+  width: 4.719rem;
+  height: 0.5rem;
+  line-height: 0.5rem;
+  float: left;
+}
+.tshop88 .lunbo .right {
+  width: 4.813rem;
+  height: 3.781rem;
+  float: left;
+}
+.tshop88 .lunbo .right .pic {
+  width: 4.813rem;
+  height: 3.188rem;
+}
+.tshop88 .lunbo .right .pic .b-pic {
+  width: 3.125rem;
+  height: 3.188rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/cold.jpg);
+}
+.tshop88 .lunbo .right .pic .s-pic {
+  margin-left: 0.063rem;
+  width: 1.563rem;
+  height: 3.188rem;
+  float: left;
+}
+.tshop88 .lunbo .right .pic .s-pic .s1 {
+  width: 1.563rem;
+  height: 1.563rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/cold1.jpg);
+}
+.tshop88 .lunbo .right .pic .s-pic .s2 {
+  width: 1.563rem;
+  height: 1.563rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+  float: left;
+  background-image: url(../img/cold2.jpg);
+}
+.tshop88 .lunbo .right .word {
+  font-size: 39px;
+  color: #222222;
+  margin-left: 0.031rem;
+  width: 4.719rem;
+  height: 0.5rem;
+  line-height: 0.5rem;
+  float: left;
+}
+.titemtop {
+  width: 10rem;
+  height: 0.906rem;
+}
+.titemtop span {
+  display: block;
+  height: 0.4375rem;
+  line-height: 0.9606rem;
+  padding: 0 0.48rem 0 0.75rem;
+  background-color: #eee;
+  color: #5f646e;
+  text-align: center;
+}
+.gussitem {
+  width: 10rem;
+}
+.gussitem .it {
+  margin-bottom: 0.1rem;
+  width: 4.98rem;
+  height: 7.5rem;
+  background-color: #fff;
+}
+.gussitem .it .pic {
+  width: 100%;
+  height: 5rem;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: contain;
+}
+.gussitem .it .in {
+  width: 4.5rem;
+  height: 1rem;
+  line-height: 1.5em;
+  font-size: 40px;
+  color: #666666;
+  margin: 0.188rem 0.313rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: box;
+  word-break: break-all;
+}
+.gussitem .it .price {
+  width: 4.625rem;
+  height: 0.875rem;
+  margin-top: -0.066667rem;
+}
+.gussitem .it .price .icon {
+  color: #ff5000;
+  margin-bottom: 0.031rem;
+  margin-left: 0.25rem;
+  margin-right: 0.063rem;
+  width: 0.625rem;
+  height: 0.844rem;
+  line-height: 0.844rem;
+  float: left;
+  font-size: 55px;
+}
+.gussitem .it .price .no {
+  color: #ff5000;
+  width: 2.25rem;
+  height: 0.5rem;
+  line-height: 0.5rem;
+  font-size: 55px;
+  float: left;
+  padding-top: 0.133333rem;
+}
+.pagebottom {
+  width: 10rem;
+  height: 2.2rem;
+  border-top: 1px solid #292c33;
+  background-image: url(../img/shtb.png);
+  background-repeat: no-repeat;
+  background-position: center 3.4375rem;
+  background-size: 4.25rem 1.125rem;
+  background-color: #4e525e;
+  padding: 0.5625rem 0.25rem;
+}
+.pagebottom .button a {
+  width: 1.4rem;
+  border-radius: 18px;
+  font-size: 42px;
+  display: inline-block;
+  height: 0.9375rem;
+  line-height: 0.9375rem;
+  color: #c3c6ca;
+  border: 2px solid #42454d;
+  background-color: #555965;
+  padding: 0 0.4rem;
+  text-align: center;
+}

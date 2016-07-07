@@ -1,0 +1,66 @@
+@charset "utf-8";
+html *{outline:0}
+a{text-decoration:none}
+body,div,li,ul{margin:0;padding:0}
+body{font-size:36px}
+body .view[name=index]{background-color:#eee}
+.clearfix{zoom:1}
+.clearfix:after{display:block;content:'';clear:both;height:0;line-height:0;visibility:hidden}
+[data-ctrl-name=scrollview]{width:100%;height:100%;overflow:hidden;display:flex}
+[data-direction=vertical]{flex-direction:column}
+header{width:100%;// height:1rem;background-color:#fe5400;position:fixed;// top:0;// left:0;z-index:20}
+header .header-wrap{padding:18px 0 18px 111px;background-size:81px 60px;background-position:13.5px center;background-image:url(../img/logo.png);background-repeat:no-repeat;width:100%;padding-right:.2rem}
+header .header-wrap #search-placeholder{width:89%;box-sizing:border-box;background-color:#b52600;text-align:center;border-radius:12px}
+header .header-wrap #search-placeholder span{height:75px;line-height:75px;font-size:39px;display:inline-block;color:#f0e0dc}
+.content .slide-banner img{width:100%;height:100%}
+.tentrance{background-color:#fff;width:10rem;height:4.313rem;border-bottom:.048309rem solid #eee}
+.tentrance .top{width:10rem;height:2.031rem;background-color:#fff}
+.tentrance .box{width:2rem;height:2.125rem;margin-left:.39rem;display:inline-block;// position:relative}
+.tentrance .pu{width:2rem;height:2.125rem;// position:absolute}
+.tentrance .pic{margin-top:.313rem;margin-left:.391rem;width:1.203rem;height:1.203rem;// position:absolute;background-size:contain;background-position:50% 50%;background-repeat:no-repeat}
+.tentrance .word{text-align:center;font-size:36px;color:#666;width:2rem;height:.594rem;line-height:.594rem}
+// .tentrance .top .tm{// top:.31401rem;// left:.797101rem;://}
+// .tentrance .top .jhs{// top:.31401rem;// left:3.188406rem;://}
+// .tentrance .top .dj{// top:.31401rem;// left:5.57971rem;://}
+// .tentrance .top .wm{// top:.31401rem;// left:7.995169rem;://}
+.tentrance .buttom{width:10rem;height:2.031rem;position:relative}
+// .tentrance .buttom .pu{// width:2rem;// height:2.125rem;// position:absolute;://}
+// .tentrance .buttom .cz{// top:.31401rem;// left:.797101rem;://}
+// .tentrance .buttom .allx{// top:.31401rem;// left:3.188406rem;://}
+// .tentrance .buttom .ljb{// top:.31401rem;// left:5.57971rem;://}
+// .tentrance .buttom .fl{// top:.31401rem;// left:7.995169rem;://}
+.toutiao2{width:10rem;height:.953rem;background:#fff;position:relative}
+.toutiao2 .img{display:inline-block;width:2.1875rem;height:100%;background:url(../img/tbtt.png) 50% 50% no-repeat}
+.toutiao2 .zx{position:absolute;top:.241546rem;left:2.415459rem;display:inline-block;// margin:.125rem .15625rem .125rem .28125rem;padding:0 .0625rem;height:.46875rem;line-height:.46875rem;border:1px solid #d81421;border-radius:.125rem;color:#d81421;font-size:42.19px;text-align:center}
+.toutiao2 .xx{position:absolute;top:.241546rem;left:3.429952rem;display:inline-block;overflow:hidden;width:6rem;height:.5rem;line-height:.5rem;color:#353535;font-size:45.7px}
+.gray{width:10rem;height:.313rem;background-color:#eee}
+.rushbuy42{width:10rem;height:4.797rem;background-color:#fff}
+.rushbuy42 .left{width:4rem;height:4.813rem;background:url(../img/tqg.jpg) no-repeat;float:left;// border-left:.024155rem solid #eee}
+.rushbuy42 .right{width:5.984rem;height:4.797rem;float:right}
+.rushbuy42 .right .r-top-l{width:3.516rem;height:1.922rem;background:url(../img/yhh.png) no-repeat}
+.rushbuy42 .right .r-top-r{width:1.922rem;height:1.922rem;background-image:url(../img/xie.jpg);background-size:contain;background-position:50% 50%;background-repeat:no-repeat;float:right;margin-top:-1.922rem}
+.rushbuy42 .r-buttom .r-b-l{width:2.969rem;height:2.875rem;background-image:url(../img/agj.jpg);background-repeat:no-repeat;background-size:contain}
+.rushbuy42 .r-buttom .r-b-r{width:2.969rem;height:2.875rem;background-image:url(../img/zgzz.png);background-repeat:no-repeat;background-size:contain;float:right;margin-top:-2.875rem}
+.tcheap3{width:10rem;height:7.281rem;background-color:#fff}
+.tcheap3 .csh{width:10rem;height:.953rem;background-color:#eee;float:left}
+.tcheap3 .csh .line{width:3.813rem;height:.013333rem;background-color:#ccc;margin-right:.156rem;margin-left:.156rem;margin-top:.484rem;float:left}
+.tcheap3 .csh .tb19{width:.531rem;height:.531rem;background-image:url(../img/tb19.png);background-repeat:no-repeat;background-size:contain;background-position:50% 50%;float:left;margin-top:.219rem}
+.tcheap3 .csh .sh{text-align:center;font-size:50px;color:#FC1C07;margin-right:.047rem;width:1.328rem;height:.953rem;line-height:.953rem;float:left}
+.tcheap3 .csh .line1{width:3.813rem;height:.013333rem;background-color:#ccc;margin-right:.156rem;margin-top:.484rem;float:right}
+.buttom,.tcheap3 .top{width:10rem;height:3.141rem;background-color:#fff}
+.tcheap3 .top .fc{background-image:url(../img/fc.jpg);background-repeat:no-repeat;background-size:contain;float:left}
+.tcheap3 .size{width:4rem;height:3.141rem}
+.v-line{width:.013333rem;height:3.141rem;background-color:#ccc;box-sizing:border-box;float:left}
+.line{width:10rem;height:.013333rem;background-color:#ccc}
+.tcheap3 .top .qq{background-image:url(../img/qq.png);background-repeat:no-repeat;background-size:contain;float:left}
+.tcheap3 .size-s{width:1.984rem;height:3.141rem}
+.tcheap3 .top .cz{background-image:url(../img/cz.png);background-repeat:no-repeat;background-size:contain;float:left}
+.tcheap3 .top .jmp{background-image:url(../img/sb.png);background-repeat:no-repeat;background-size:contain;float:left}
+.tcheap3 .buttom .tj{background-image:url(../img/tj.png);background-repeat:no-repeat;background-size:contain;float:left}
+.tcheap3 .buttom .dq{background-image:url(../img/dq.png);background-repeat:no-repeat;background-size:contain;float:left}
+.tcheap3 .buttom .lrg{background-image:url(../img/lrg.png);background-repeat:no-repeat;background-size:contain;float:left}
+.tcheap3 .buttom .qc{background-image:url(../img/qc.png);background-repeat:no-repeat;background-size:contain;float:left}
+.tquality3{width:10rem;height:6.734rem}
+.tquality3 .hpz{width:10rem;height:.953rem;background-color:#eee}
+.tquality3 .hpz .line{width:3.813rem;margin-right:.156rem;margin-left:.156rem;margin-top:.484rem;float:left}
+.tquality3 .hpz .tb{width:.531rem;height:.531rem;background-image:url(../img/hpz.png);background-repeat:no-repeat;background-size:contain;background-position:50% 50%;float:left;margin-top:.219rem}
