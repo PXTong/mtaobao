@@ -10,7 +10,7 @@ body,div,li,ul{
 	padding:0;
 }
 body{
-	font-size: 36px;
+	font-size: 0.48rem;
 }
 
 body .view[name="index"]{
@@ -47,13 +47,13 @@ header{
 	z-index: 20;
 }
 header .header-wrap{
-	padding:18px 0 18px 111px;
-	background-size: 81px 60px; 
-	background-position: 13.5px center;
+	padding:0.16rem 0.2rem 0.16rem 0.986667rem;
+	background-size: 0.72rem 0.533333rem; 
+	background-position: 0.12rem center;
 	background-image:url(../img/logo.png); 
 	background-repeat: no-repeat;
 	width: 100%;
-	padding-right: 0.2rem;
+	// padding-right: 0.2rem;
 }
 header .header-wrap #search-placeholder{
 	width: 89%;
@@ -63,9 +63,9 @@ header .header-wrap #search-placeholder{
 	border-radius: 12px;
 }
 header .header-wrap #search-placeholder span{
-	height: 75px;
-	line-height: 75px;
-	font-size: 39px;
+	height: 0.666667rem;
+	line-height: 0.666667rem;
+	font-size: 0.346667rem;
 	display: inline-block;
 	color: #f0e0dc;
 }
@@ -88,7 +88,7 @@ header .header-wrap #search-placeholder span{
 .tentrance .box{
 	width: 2rem;
 	height: 2.125rem;
-	margin-left: 0.390rem;
+	margin-left: 0.2rem;
 	display: inline-block;
 	// position: relative;
 }
@@ -109,7 +109,7 @@ header .header-wrap #search-placeholder span{
 }
 .tentrance  .word{
 	text-align: center;
-	font-size: 36px;
+	font-size: 0.333333rem;
 	color: #666;
 	width: 2rem;
 	height: 0.594rem;
@@ -165,9 +165,11 @@ header .header-wrap #search-placeholder span{
 }
 .toutiao2 .img{
 	display: inline-block;
-	width: 2.1875rem;
+	width: 2.2rem;
 	height: 100%;
-	background: url(../img/tbtt.png) 50% 50% no-repeat;
+	background: url(../img/tbtt.png) no-repeat;
+	background-size: contain;
+	margin: 0.2rem 0.2rem;
 }
 .toutiao2 .zx{
 	position: absolute;
@@ -181,7 +183,7 @@ header .header-wrap #search-placeholder span{
     border: 1px solid rgb(216, 20, 33);
     border-radius: 0.125rem;
     color: rgb(216, 20, 33);
-    font-size: 42.1875px;
+    font-size: 0.4rem;
     text-align: center;
 }
 .toutiao2 .xx{
@@ -194,7 +196,7 @@ header .header-wrap #search-placeholder span{
 	height: 0.5rem;
 	line-height: 0.5rem;
 	color: rgb(53, 53, 53);
-	font-size: 45.7031px;
+	font-size: 0.4rem;
 }
 .gray{
 	width: 10rem;
@@ -211,6 +213,7 @@ header .header-wrap #search-placeholder span{
 	height: 4.813rem;
 	background:url(../img/tqg.jpg) no-repeat;
 	float: left;
+	background-size: contain;
 	// border-left: 0.024155rem solid #eee; 
 }
 .rushbuy42 .right{
@@ -222,6 +225,7 @@ header .header-wrap #search-placeholder span{
 	width: 3.516rem;
     height: 1.922rem;
     background: url(../img/yhh.png) no-repeat;
+    background-size: contain;
 }
 .rushbuy42 .right .r-top-r{
 	width: 1.922rem;
@@ -281,7 +285,7 @@ header .header-wrap #search-placeholder span{
 }
 .tcheap3 .csh .sh {
     text-align: center;
-    font-size: 50px;
+    font-size: 0.4rem;
     color: #FC1C07;
     margin-right: 0.047rem;
     width: 1.328rem;

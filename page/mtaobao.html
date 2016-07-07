@@ -3,10 +3,25 @@
 <head>
 	<meta charset="UTF-8">
 	<title>淘宝触屏版</title>
+	<!--网页关键词-->
+    <meta name="keywords" content="">
+    <!--网页描述-->
+    <meta name="description" content="">
+    <!--适配当前屏幕-->
+    <!--禁止自动识别电话号码-->
+    <meta name="format-detection" content="telephone=no" />
+    <!--禁止自动识别邮箱-->
+    <meta name="format-detection" content="email=no" />
+    <!--iphone中safari私有meta标签,
+        允许全屏模式浏览,隐藏浏览器导航栏-->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <!--iphone中safari顶端的状态条的样式black(黑色)-->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="../js/jquery.lazyload.js"></script>
 	<script type="text/javascript" src="../js/flexible_css.js"></script>
 	<script type="text/javascript" src="../js/flexible.js"></script>
+	<link rel="stylesheet" href="../css/swiper.min.css">
 	<!-- <script type="text/javascript" src="../js/touch.js"></script> -->
 	<link rel="stylesheet" type="text/css" href="../css/mtaobao.css">
 	<link rel="stylesheet" type="text/css" href="../css/mtaobaoless.css">
@@ -27,11 +42,12 @@
 
 			</div>
 			<div class="scroll-wrap">
-				<div class="scroll-content" style="transform: translate3d(0px,0px,0px);height: 28331.7px "><!-- -->
-					<div class="content">
+				<div class="scroll-content" style="transform: translate3d(0px,0px,0px);height:auto "><!-- -->
+					<div class="content" style="margin: 0 auto;width: 9.973333rem;">
 					<div style="width:10rem;height: 0.9rem; background-color: red;"></div>
-						<section data-group="1">
-							<div data-template-name="tbanner" style="position: relative;">
+						<section>
+							<!-- 轮播 -->
+							<!-- <div data-template-name="tbanner" style="position: relative;">
 								<div style="box-sizing:border-box;line-height: 0;width: 10rem;height: 3.125rem" class="UIView">
 									<div class="slide-banner" style="height: 100%;width: 10rem;overflow: hidden;position: relative;">
 										<img src="../img/jpg_q50.jpg">
@@ -42,7 +58,63 @@
 										</ul>
 									</div>
 								</div>
-							</div>
+							</div> -->
+							        <div class="banner">
+					            <div class="swiper-container">
+					                <div class="swiper-wrapper">
+					                    <div class="swiper-slide">
+					                        <img style="width: 100%;height:100%" src="../img/jpg_q50.jpg" class="">
+					                    </div>
+					                    <div class="swiper-slide">
+					                        <img style="width: 100%;height:100%" src="../img/jpg_q54.jpg">
+					                    </div>
+					                    <div class="swiper-slide">
+					                        <img style="width: 100%;height:100%" class=""src="../img/jpg_q55.jpg">
+					                    </div>
+					                    <div class="swiper-slide">
+					                        <img style="width:100%;height:100%;" class="" src="../img/jpg_q56.jpg">
+					                    </div>
+					                    <div class="swiper-slide">
+					                        <img style="width:100%;height:100%;" class="" src="../img/jpg_q55.jpg">
+					                    </div>
+					                    <div class="swiper-slide">
+					                        <img style="width:100%;height:100%;" class="" src="../img/jpg_q56.jpg">
+					                    </div>
+					                    <div class="swiper-slide">
+					                        <img style="width:100%;height:100%;" class="" src="../img/jpg_q52.jpg">
+					                    </div>
+					                    <div class="swiper-slide">
+					                        <img style="width:100%;height:100%;" class="" src="../img/jpg_q56.jpg">
+					                    </div>
+					                    
+					                </div>
+					                <!-- 如果需要分页器 -->
+					                <div class="swiper-pagination"></div>
+					                
+					                <!-- 如果需要导航按钮 -->
+					               <!--  <div class="swiper-button-prev"></div>
+					                <div class="swiper-button-next"></div> -->
+					                
+					                <!-- 如果需要滚动条 -->
+					                <div class="swiper-scrollbar"></div>
+					            </div>
+					            <script src="../js/swiper.min.js"></script>
+					            <script>
+								    var swiper = new Swiper('.swiper-container', {
+								        pagination: '.swiper-pagination',
+								        paginationClickable: true,
+								        loop: true,
+								        
+								        autoplay: 2500
+								       
+								    });
+								    if ('addEventListener' in document) {
+								             document.addEventListener('DOMContentLoaded', function() {
+								                FastClick.attach(document.body);
+								     }, false);}
+					            </script>
+					        </div>
+							<!-- 图标 -->
 							<div class="tentrance">
 								<div class="top">
 									<div class="box">
@@ -350,7 +422,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="gussitem">
+					<div class="gussitem" style="margin: 0 auto;">
 						<div class="it" style="float: left;">
 							<div class="pic" style="background-image: url(../img/shuihu.jpg);"></div>
 							<div class="in">[为您推荐]原装正品特价 kor nava美丽时尚过滤运动水壶大...</div>
@@ -737,7 +809,7 @@
 						</div> -->
 					<div class="clearfix"></div>	
 					</div>					
-					<div class="pagebottom">
+					<div class="pagebottom" style="margin:0 auto;">
 						<div class="button">
 							<a href="">登录</a>
 							<a href="">注册</a>
